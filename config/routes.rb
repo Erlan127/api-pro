@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :conans
   devise_for :users
   get 'pages/home'
   get 'pages/restricted'

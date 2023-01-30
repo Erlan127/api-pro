@@ -49,3 +49,5 @@ end
 
 gem "devise", "~> 4.8"
 gem "devise-api", "~> 0.1.1"
+
+gem "faker", "~> 3.1"

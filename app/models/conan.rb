@@ -1,0 +1,2 @@
+class Conan < ApplicationRecord
+end
